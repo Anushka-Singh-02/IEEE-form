@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(250, 224, 250);
+}
+.head{
+    text-align: center;
+    color: purple;
+    margin-bottom: 0;
+    padding-top: 5%;
+}
+.des{
+    text-align: center;
+    margin-top: 0;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    padding-bottom: 10%;
+}
+label{
+    color:purple;
+}
+.choice{
+    color:rgb(133, 125, 125);
+}
+.button{
+    display: flex;
+    justify-content: flex-end;
+}
